@@ -26,7 +26,7 @@ Classic
 
 Open Field
 
-##🕹️ Controls
+## 🕹️ Controls
 Use arrow keys to control the snake:
 
 ↑ - Up
@@ -37,7 +37,7 @@ Use arrow keys to control the snake:
 
 → - Right
 
-##🧠 Notes
+## 🧠 Notes
 The game is undecorated (no title bar), and opens in a fixed size of 600x600.
 
 On game over, a dialog prompts the player to restart or exit.
